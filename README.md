@@ -3,3 +3,4 @@
 # created function
 # code added
 # tried to push code from VS code to git.
+# created multiplication command
